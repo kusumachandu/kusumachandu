@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Chandra Shekar Kusuma, <br>Full-stack developer (Frontend heavy),<br>working in Zvoid india Pvt.ltd since last 7 months. <br>I am passionate working as a front developer and design user friendly website
+I am Chandra Shekar Kusuma, <br>Full-stack developer (Frontend heavy),<br>working in Zvoid india Pvt.ltd. <br>I am passionate working as a front developer and design user friendly websites
 
 
 # 💻 Tech Stack:
