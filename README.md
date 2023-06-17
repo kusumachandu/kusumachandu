@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Chandra Shekar from Vijayawada<br><br>- 🔭 I’m working as Full-satck developer<br>- 📚 I'm currently learning svelte<br>- ⚡ In my free time I for a bike ride and explore beautiful places</p>
+<p align="left">I'm Chandra Shekar from Vijayawada<br><br>- 🔭 I’m working as Full-satck developer<br>- 📚 I'm currently learning svelte<br>- ⚡ In my free time I go for a bike ride and explore beautiful places</p>
 
 ###
 
