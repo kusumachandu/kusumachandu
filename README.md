@@ -57,9 +57,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusumachandu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kusumachandu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kusumachandu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![kusumachandu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kusumachandu&theme=highcontrast&hide_border=false)
+![kusumachandu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusumachandu&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![kusumachandu's Stats](https://github-readme-stats.vercel.app/api?username=kusumachandu&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
