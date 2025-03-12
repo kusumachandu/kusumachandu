@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Chandra Shekar from Vijayawada<br><br>- 🔭 I’m working as Full-satck developer<br>- 📚 I'm currently learning svelte in my free time<br>- ⚡ In my free time I go for a bike ride and explore beautiful places</p>
+<p align="left">I'm Chandra Shekar from Vijayawada<br><br>- 🔭 I’m working as Full-satck developer<br>- 📚 I'm currently handling the projects and writing scalable codes for the project<br>- ⚡ In my free time I go for a bike ride and explore beautiful places</p>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-![kusumachandu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kusumachandu&theme=highcontrast&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kusumachandu)](https://git.io/streak-stats)
 ![kusumachandu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusumachandu&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 ![kusumachandu's Stats](https://github-readme-stats.vercel.app/api?username=kusumachandu&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
