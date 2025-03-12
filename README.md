@@ -57,7 +57,7 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kusumachandu)](https://git.io/streak-stats)
+[![kusumachandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusumachandu)](https://github.com/kusumachandu/github-readme-stats)
 ![kusumachandu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusumachandu&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 ![kusumachandu's Stats](https://github-readme-stats.vercel.app/api?username=kusumachandu&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
